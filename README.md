@@ -61,8 +61,8 @@ render_template_string(HTML_PAGE, qr_code=qr_code)
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/FlaskQRCodeGenerator.git
-cd FlaskQRCodeGenerator
+git clone https://github.com/saichaitanya-c/Qr-code-generator.git
+cd Qr-code-generator
 ```
 
 2. **Install dependencies**
@@ -148,4 +148,4 @@ git push heroku main
 MIT License – free to use, modify, and share.
 
 
-Do you want me to do that?
+
